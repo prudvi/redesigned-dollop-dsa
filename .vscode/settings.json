@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "array-alogorithms/easy-problems"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-26",
+            "path": "/opt/homebrew/opt/openjdk/libexec/openjdk.jdk/Contents/Home",
+            "default": true
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": false
+}
